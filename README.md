@@ -1,6 +1,6 @@
 Hi!!
 
-I am Saswata
+I am Saswata,
 Studying CS in Uni -> sophomore year
 
 This repo is for me to practise my DSA knowledge.
