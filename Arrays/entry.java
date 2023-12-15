@@ -1,5 +1,6 @@
 //WAP to insert elements in array
-
+//this code has errors
+//Working on it -> The function ToPrintOrNotToPrint() is not printing the array 
 package Arrays;
 
 import java.util.*;
@@ -29,8 +30,8 @@ public class entry {
         int choice = sc.nextInt();
 
         if (choice == 1)
-        ToPrintOrNotToPrint(b, a);
-        // else
-        // System.out.println("Adios");
+            ToPrintOrNotToPrint(b, a);
+        else
+            System.out.println("Adios");
     }
 }
